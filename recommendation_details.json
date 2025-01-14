@@ -1,0 +1,16 @@
+{
+    "employee_data": {
+        "Age": 30,
+        "Distance from Residence to Work": 25,
+        "Service time": 5,
+        "Transportation expense": 200,
+        "Social drinker": 1,
+        "Social smoker": 0
+    },
+    "predicted_absenteeism": 5.520715993834423,
+    "recommendations": [
+        "Consider introducing flexible work schedules to reduce commute stress.",
+        "Consider improving employee health programs to address social habits.",
+        "Consider offering transportation subsidies to ease commuting."
+    ]
+}

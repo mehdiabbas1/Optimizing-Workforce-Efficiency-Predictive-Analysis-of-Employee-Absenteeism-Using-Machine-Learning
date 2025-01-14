@@ -1,0 +1,21 @@
+Key Insights from Analysis:
+1. Employees with long commute distances have higher absenteeism rates.
+2. Social drinkers have higher absenteeism hours compared to non-drinkers.
+3. Certain age groups have higher absenteeism rates.
+
+Recommendations to Reduce Absenteeism:
+
+1. Flexible Work Schedules:
+   Insight: Higher absenteeism on certain days or among employees with long commutes.
+   Recommendation: Introduce flexible work schedules to allow employees to choose their work hours or work from home on certain days.
+   Implementation: Develop a policy for flexible work schedules, communicate the policy to employees, and provide necessary tools for remote work.
+
+2. Employee Health Programs:
+   Insight: Higher absenteeism among employees with certain health issues or social habits (e.g., smoking, drinking).
+   Recommendation: Improve employee health programs by offering wellness programs, smoking cessation programs, and health screenings.
+   Implementation: Partner with health service providers, organize health workshops, and provide incentives for participation in wellness programs.
+
+3. Transportation Subsidies:
+   Insight: Higher absenteeism among employees who live far from work.
+   Recommendation: Offer transportation subsidies to make commuting easier and less stressful.
+   Implementation: Provide subsidies for public transportation, carpooling incentives, or company-sponsored shuttle services.
