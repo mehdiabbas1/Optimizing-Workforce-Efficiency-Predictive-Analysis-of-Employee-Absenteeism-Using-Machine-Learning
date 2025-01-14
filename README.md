@@ -1,0 +1,2 @@
+# Optimizing-Workforce-Efficiency-Predictive-Analysis-of-Employee-Absenteeism-Using-Machine-Learning
+This project leverages advanced data analysis and machine learning techniques to predict employee absenteeism and provide actionable insights. By analyzing key factors such as commute distance, social habits, and age, the project offers recommendations to reduce absenteeism and improve workforce efficiency.
